@@ -324,9 +324,9 @@ list-style:none;
     -webkit-filter: none; 
 }
 /* Recomondation */
-#recomondation
+#certificates
 {
-    background: #fff;
+    background: #000;
 }
 #recomondation .heading h2
 {
